@@ -2,12 +2,11 @@
 
 ### Education
 - Certification - Google Data Analytics Certification
-- Ms. Artificial Intelligence and Data Science  Solent Southampton University - United Kingdom, UK(2022)
-- B.Eng: Computer Engineering, 2015
-Covenant University - Nigeria
+- Ms. Artificial Intelligence and Data Science ,Solent Southampton University - United Kingdom. (Dec. 2022)
+- B.Eng: Computer Engineering , Covenant University - Nigeria (2015)
 
 
-
+### Work Experience
 Business data analyst, 06/2023 - 12/2023
 JETROE CLOUD - Canada
 Enhanced data integrity and compliance by analyzing and interpreting web analytics, improving overall
