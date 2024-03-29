@@ -1,6 +1,13 @@
 # Data Analyst
 
-### Work Experience
+### Education
+- Certification - Google Data Analytics Certification
+- Ms. Artificial Intelligence and Data Science  Solent Southampton University - United Kingdom, UK(2022)
+- B.Eng: Computer Engineering, 2015
+Covenant University - Nigeria
+
+
+
 Business data analyst, 06/2023 - 12/2023
 JETROE CLOUD - Canada
 Enhanced data integrity and compliance by analyzing and interpreting web analytics, improving overall
