@@ -5,7 +5,7 @@
 - Hyperparameter Optimization: Used RandomizedSearchCV for hyperparameter tuning of the Random Forest model, resulting in improved model performance and demonstrating a deep understanding of model optimization techniques.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate results.
 
-- ![Diabetes Prediction ROC Curve]()
+- ![Diabetes Prediction ROC Curve](Assets/Diabetes.png)
 For a more comprehensive understanding of my project, [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
 
 
