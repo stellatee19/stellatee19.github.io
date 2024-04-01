@@ -1,4 +1,4 @@
-## Project 1
+## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
 - Advanced Modeling Techniques: I emloyed various machine learning algorithms such as Random Forest, Logistic Regression, and KNN in showcasing versatility in modeling approaches and the ability to select the best model based on performance metrics.
