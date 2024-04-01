@@ -1,3 +1,5 @@
+# Data Analyst Portfolio 
+
 ## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
@@ -18,7 +20,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 
 
-# Data Analyst
+
 
 ### Education
 - Certification - Google Data Analytics Certification
