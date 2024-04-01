@@ -6,7 +6,7 @@
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate results.
 
 - ![Diabetes Prediction ROC Curve](Assets/Diabetes.png)
-For a more comprehensive understanding of my project, [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
+For a more comprehensive understanding of my project,kindly [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
 
 
 
