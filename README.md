@@ -14,6 +14,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
 - Dashboard Development: I designed and implemented an interactive dashboard with slicers in Excel, providing insightful visualizations and enabling dynamic data exploration to drive business decisions in the bike sales industry.
+  
 Check out the ![Bike Customer Age Bracket](https://github.com/stellatee19/stellatee19.github.io/blob/48d8ac71741cdb146334f7e8bb59546b179d9e08/Assets/Customer%20Age%20Bracket.png)    ![Customer commute Distance](https://github.com/stellatee19/stellatee19.github.io/blob/e138e66aa1ce2db32078e5a13970b3b0f19b0c7b/Assets/Cust%20Commute%20Distance.png)
 
 
