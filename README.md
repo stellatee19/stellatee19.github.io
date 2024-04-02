@@ -20,6 +20,8 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 [Kindly check out the full project here](https://github.com/stellatee19/Stellaprojects/blob/60f59a520196e724059b45441878632af11da116/Excel%20Project%20Dataset.xlsx)
 
+![newnew](Assets/Cust Commute Distance.png)
+
 
 
 
