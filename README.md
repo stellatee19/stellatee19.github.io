@@ -15,7 +15,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
 - Dashboard Development: I designed and implemented an interactive dashboard with slicers in Excel, providing insightful visualizations and enabling dynamic data exploration to drive business decisions in the bike sales industry.
   
-Check out the[dashboard](https://github.com/stellatee19/stellatee19.github.io/blob/b79bf77aa148df71cfb1069df50952dbbda0fa4d/Assets/Bike%20sales%20dashboard)
+Check out the ![dashboard](https://github.com/stellatee19/stellatee19.github.io/blob/b79bf77aa148df71cfb1069df50952dbbda0fa4d/Assets/Bike%20sales%20dashboard)
 
 
 
