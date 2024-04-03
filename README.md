@@ -19,6 +19,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 [Kindly check out the full project here](https://github.com/stellatee19/Stellaprojects/blob/60f59a520196e724059b45441878632af11da116/Excel%20Project%20Dataset.xlsx)
 
+![Screenshot 2024-04-02 at 19 12 20](https://github.com/stellatee19/stellatee19.github.io/assets/164964860/e99bbefb-7299-44aa-8878-417f042096f3)
 
 
 
