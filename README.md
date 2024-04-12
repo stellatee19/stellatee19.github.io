@@ -1,11 +1,13 @@
 # Data Analyst Portfolio 
 
-##Finance Analysis Dahboard in PowerBi
+## Finance Analysis Dahboard in PowerBi
 
 - Finance dataset extracted directly from PowerBi.
-- Strategic Data Interpretation: I synthesized  financial data into an interactive dashboard, effectively tracking and visualizing KPIs such as Profit and Total Profit, which facilitates strategic business decisions based on market trend analyses.
-- ![Profit Trend]()
-
+- "In this dashboard, I created a  data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
+- The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators."
+- !["The 'Profit Trend by Month & Qtr' visualization elucidates seasonal performance, informing targeted marketing campaigns to capitalize on high-profit periods."](Assets/Profit Trend by month & Qtr.png)
+- Report Development: Expertise in designing, developing, and deploying business intelligence reports and dashboards that provide actionable insights.
+- 
 ## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
