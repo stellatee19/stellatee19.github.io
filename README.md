@@ -5,9 +5,9 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 
 
 
-## Technical Skills:
-<code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Presentation</code>
-<b>Soft Skills:</b><code>Data Analysis</code> | <code>Data Analysis</code> | <code>Data Analysis</code> | <code>Data Analysis</code> | <code>Data Analysis</code> | <code>Data Analysis</code>
+## Skills:
+<b>Technical Skills:</b><code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code>
+<b>Soft Skills:</b><code>Communication </code> | <code>Attention to Detail </code> | <code>Problem Solving</code> | <code>Presentation</code>
 
 
 
