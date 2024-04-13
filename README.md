@@ -4,12 +4,10 @@
 
 - Finance dataset extracted directly from PowerBi.
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
-- The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators."
+- The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
   
--![Total profit](Assets/Profit Trend by month & Qtr.png)
-
-![Assets/Profit Trend.png)](https://github.com/stellatee19/stellatee19.github.io/blob/ec3c6ab88a8fa5207bfe95776212b0045c8deb3a/Assets/Profit%20Trend)
-  
+- ![Trend with Profit](Assets/Profit Trend by month & Qtr)
+- 
 ## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
