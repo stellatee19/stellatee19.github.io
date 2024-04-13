@@ -6,15 +6,15 @@
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators."
   
- ![The Profit Trend by Month & Qtr visualization elucidates seasonal performance,informing targeted marketing campaigns to capitalize on high-profit periods](https://github.com/stellatee19/stellatee19.github.io/blob/3328124604635fbcf0af96fb01b12e9f3823ca7a/Assets/Profit%20Trend%20by%20month%20%26%20Qtr.png) ![Profit Trend](https://github.com/stellatee19/stellatee19.github.io/blob/6d799f96a29db76549600852419a7779efc5ad80/Profit%20Trend)
+                ![The Profit Trend by Month & Qtr visualization elucidates seasonal performance,informing targeted marketing campaigns to capitalize on high-profit periods](https://github.com/stellatee19/stellatee19.github.io/blob/3328124604635fbcf0af96fb01b12e9f3823ca7a/Assets/Profit%20Trend%20by%20month%20%26%20Qtr.png)     ![Profit Trend](https://github.com/stellatee19/stellatee19.github.io/blob/6d799f96a29db76549600852419a7779efc5ad80/Profit%20Trend)
 
 ## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
-- Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate results.
+- Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate result
 
-- ![Diabetes Prediction ROC Curve](https://github.com/stellatee19/stellatee19.github.io/blob/b7ef63c76f3cc6b6671807ea6b8a9c0e15cfba7a/ROC%20for%20KNN)
+  ![Diabetes Prediction ROC Curve](https://github.com/stellatee19/stellatee19.github.io/blob/b7ef63c76f3cc6b6671807ea6b8a9c0e15cfba7a/ROC%20for%20KNN)
   
 For a more comprehensive understanding of my project,kindly [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
 
