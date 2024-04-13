@@ -4,7 +4,7 @@
 **Skills**: PowerBi / Python / SQL / Ms Excel / Presentation
 
 
-# Data Analyst Portfolio 
+## Data Analyst Portfolio 
 
 ## Finance Analysis Dahboard using PowerBi
 
