@@ -13,7 +13,7 @@
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate results.
 
-- ![Diabetes Prediction ROC Curve](Assets/Diabetes.png)
+- ![Diabetes Prediction ROC Curve]([Assets/Diabetes.png](https://github.com/stellatee19/stellatee19.github.io/blob/b7ef63c76f3cc6b6671807ea6b8a9c0e15cfba7a/ROC%20for%20KNN])
   
 For a more comprehensive understanding of my project,kindly [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
 
