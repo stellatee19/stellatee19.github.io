@@ -28,8 +28,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 
 
-
-
+!(https://github.com/stellatee19/stellatee19.github.io/blob/592e1fa100862fc2356f24ff75b0db2b3e691d50/Assets/Profit%20Trend)
 
 
 
