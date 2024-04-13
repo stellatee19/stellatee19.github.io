@@ -6,7 +6,7 @@
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators."
   
-  ![The Profit Trend by Month & Qtr](Assets/Profit Trend6a4d6c842c0ad3308b64b85615dfb791857738c9/Assets/Profit%20Trend)
+  ![The Profit Trend by Month & Qtr](Assets/Profit Trend)
   
 ## Diabetes Prediction
 
