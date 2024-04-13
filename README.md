@@ -14,7 +14,8 @@
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate result.
-![ROC](https://github.com/stellatee19/stellatee19.github.io/blob/ee0cf69006001d1925765bde4f7b2889778adf9d/Assets/ROC)  
+![ROC](Assets/ROC)
+
 For a more comprehensive understanding of my project,kindly [click here](https://www.kaggle.com/code/chikkychoc/notebook973d3c5b8a/input).
 
 ## Bike Sales
