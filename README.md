@@ -5,9 +5,11 @@
 - Finance dataset extracted directly from PowerBi.
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
-  
-- ![Trend with Profit](Assets/Profit Trend by month & Qtr)
-- 
+![Visualization for trend](Assets/Profit.png)
+![Dashboard to view weekly](Assets/Profit Trend by month & Qtr.png)
+
+
+
 ## Diabetes Prediction
 
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
