@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Temi
 #### I am GitHub Readme Generator's creator
 
-**Skills**: PowerBi / Python / SQL / Ms Excel / Presentation
+## **Skills**: PowerBi / Python / SQL / Ms Excel / Presentation
 
 
 ## Data Analyst Portfolio 
