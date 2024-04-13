@@ -5,13 +5,15 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 
 
 
-## Technical Skills: PowerBI, SQL, Python, MATLAB , Ms Excel, Presentation
+## Technical Skills: PowerBI, SQL, Python, MATLAB , Ms Excel, Presentation.
+
 
 ## Education
+Ms. Artificial Intelligence and Data Science  | Solent Southampton University - United Kingdom (Dec 2022)
 
-    Ms. Artificial Intelligence and Data Science  | Solent Southampton University - United Kingdom (Dec 2022)
-    B.Eng: Computer Engineering | Covenant University - Nigeria (2015) (December 2019)
-    Certification - Google Data Analytics Certification  (2023)
+B.Eng: Computer Engineering | Covenant University - Nigeria (2015) (December 2019)
+
+Certification - Google Data Analytics Certification  (2023)
 
 ## Projects
 ## Finance Analysis Dahboard using PowerBi
