@@ -7,8 +7,7 @@
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
 
 ![view](Assets/prof visualization.png)
-![Assets/Trend for profit](https://github.com/stellatee19/stellatee19.github.io/blob/fb555d4dace8bcbb6b8a77a381c235f172a6d21e/Assets/prof%20visualization.png)
-
+![Assets/Trend for profit](Assets/Trend for profit)
 
 ## Diabetes Prediction
 
