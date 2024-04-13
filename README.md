@@ -5,7 +5,8 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 
 
 
-## Technical Skills: PowerBI, SQL, Python, MATLAB , Ms Excel, Presentation.
+## Technical Skills:
+- PowerBI, - SQL, - Python, - MATLAB , - Ms Excel, - Presentation.
 
 
 ## Education
