@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Temi
 
-## **About me**: I am a dedicated data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth. Passionate about data visualization and predictive modeling, I leverage advanced analytical techniques to solve challenging problems. Let’s connect to explore opportunities and share industry insights.
+## About me: I am a dedicated data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth. Passionate about data visualization and predictive modeling, I leverage advanced analytical techniques to solve challenging problems. Let’s connect to explore opportunities and share industry insights.
 ## **Skills**: PowerBi/Python/SQL/Ms Excel/ Presentation
 
 
