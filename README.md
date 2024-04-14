@@ -10,7 +10,7 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 - *Google Analytics Certificate*, 2023
   
 ## Projects
-## Diabetes Prediction
+### Diabetes Prediction
 - Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate result.
@@ -26,7 +26,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 
 ![view](Assets/prof visualization.png) ![Assets/Trend for profit](Assets/Trend for profit)
 
-## Bike Sales
+### Bike Sales
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
 - Dashboard Development: I designed and implemented an interactive dashboard with slicers in Excel, providing insightful visualizations and enabling dynamic data exploration to drive business decisions in the bike sales industry.
 ![Screenshot 2024-04-02 at 19 12 20](https://github.com/stellatee19/stellatee19.github.io/assets/164964860/e99bbefb-7299-44aa-8878-417f042096f3)
