@@ -5,9 +5,9 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 <code>Data Analaysis</code> |<code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code> | <code>Presentation</code>
 
 ### Education
-- *Solent Southampton University* - **M.sc. AI & Data Science** ,2021-2022
+- *Solent Southampton University* - **M.sc. AI & Data Science** , 2021-2022
 - *Covenant University* - **B.Eng Computer Engineering**, 2010-2015
-- *Google Analytics Certificate* - 2023
+- *Google Analytics Certificate*, 2023
   
 ## Projects
 ### Finance Analysis Dahboard using PowerBi
