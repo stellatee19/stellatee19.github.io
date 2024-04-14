@@ -10,10 +10,12 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 
 <b>Soft Skills:</b><code>Communication</code>&nbsp;|&nbsp;<code>Attention&nbsp;to&nbsp;Detail</code>&nbsp;|&nbsp;<code>Problem&nbsp;Solving</code>&nbsp;|&nbsp;<code>Presentation</code>
 
-**Technical Skills:** PowerBI | MATLAB | Machine Learning | Python | SQL | Visualization
+**Skills**
 
-**Soft Skills:** Communication | Attention to Detail | Problem Solving | Presentation
-
+| Type            | List of Skills                                        |
+|-----------------|-------------------------------------------------------|
+| **Technical**   | PowerBI, MATLAB, Machine Learning, Python, SQL, Visualization |
+| **Soft Skills** | Communication, Attention to Detail, Problem Solving, Presentation |
 
 ## Education
 - **Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
