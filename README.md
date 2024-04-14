@@ -1,8 +1,11 @@
 ## Data Analyst Portfolio 
+
+[Click Here To View My Resume](Assets/TemiCA.pdf)
 ### About me
 I am a Passionate  data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth. Passionate about data visualization and predictive modeling, I leverage advanced analytical techniques to solve challenging problems. Let’s connect to explore opportunities and share industry insights.
 ### Skills
 <code>Data Analaysis</code> |<code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code> | <code>Presentation</code>
+
 
 ### Education
 - *Solent Southampton University* - M.sc. AI & Data Science , 2021-2022
@@ -32,12 +35,3 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 ![Screenshot 2024-04-02 at 19 12 20](https://github.com/stellatee19/stellatee19.github.io/assets/164964860/e99bbefb-7299-44aa-8878-417f042096f3)
 
 [Kindly check out the full project here](https://github.com/stellatee19/Stellaprojects/blob/60f59a520196e724059b45441878632af11da116/Excel%20Project%20Dataset.xlsx)
-
-### Work Experience
-Business data analyst,JETROE CLOUD - Canada (06/2023 - 12/2023)
-- Enhanced data integrity and compliance by analyzing and interpreting web analytics, improving overall
-data quality by 20%.
-- Utilized advanced analytical techniques to identify and resolve operational disruptions, resulting in 25%
-reduction in cloud environment challenges.
-- Led the development and implementation of standardized cloud procedures, significantly increasing
-efficiency throughout the software development life cycle.
