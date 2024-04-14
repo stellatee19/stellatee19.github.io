@@ -1,3 +1,7 @@
 body {
     color: #ADD8E6; /* Sets the font color to a dark gray */
 }
+.description {
+    color: #ff0000; /* Changes the color to red */
+}
+
