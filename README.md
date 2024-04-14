@@ -2,21 +2,8 @@
 
 ## About me
 I am a Passionate  data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth. Passionate about data visualization and predictive modeling, I leverage advanced analytical techniques to solve challenging problems. Let’s connect to explore opportunities and share industry insights.
-
-
-
 ## Skills:
-<b>Technical Skills:</b><code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code>
-
-<b>Soft Skills:</b><code>Communication</code>&nbsp;|&nbsp;<code>Attention&nbsp;to&nbsp;Detail</code>&nbsp;|&nbsp;<code>Problem&nbsp;Solving</code>&nbsp;|&nbsp;<code>Presentation</code>
-
-**Skills**
-
-| Type            | List of Skills                                        |
-|-----------------|-------------------------------------------------------|
-| **Technical**   | PowerBI, MATLAB, Machine Learning, Python, SQL, Visualization |
-| **Soft Skills** | Communication, Attention to Detail, Problem Solving, Presentation |
-
+<b>Technical Skills:</b><code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code> | <code>Presentation</code>
 ## Education
 - **Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
 - **Covenant University** - B.Eng Computer Engineering, 2010-2015
