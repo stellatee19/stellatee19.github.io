@@ -8,13 +8,6 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 - **Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
 - **Covenant University** - B.Eng Computer Engineering, 2010-2015
 - **Google Analytics Certificate** 2023
-
-Ms. Artificial Intelligence and Data Science  | Solent Southampton University - United Kingdom (Dec 2022)
-
-B.Eng: Computer Engineering | Covenant University - Nigeria (2015) (December 2019)
-
-Certification - Google Data Analytics Certification  (2023)
-
 ## Projects
 ## Finance Analysis Dahboard using PowerBi
 - Finance dataset extracted directly from PowerBi.
