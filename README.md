@@ -5,13 +5,13 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 <code>Data Analaysis</code> |<code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code> | <code>Presentation</code>
 
 ### Education
-- *Solent Southampton University* - **M.sc. AI & Data Science** , 2021-2022
-- *Covenant University* - **B.Eng Computer Engineering**, 2010-2015
+- *Solent Southampton University* - M.sc. AI & Data Science , 2021-2022
+- *Covenant University* - B.Eng Computer Engineering, 2010-2015
 - *Google Analytics Certificate*, 2023
   
 ## Projects
-### Diabetes Prediction
-- Data Acquisition: The diabetes dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data).
+### Diabetes Prediction 
+- Data Acquisition: The diabetes dataset was sourced from **[Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data)**
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate result.
 
