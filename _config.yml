@@ -1,5 +1,7 @@
 title: Temi Adegoke
 logo: /Assets/IMG_4272.JPG
 description: Passionate data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth.
-resume: /Assets/TemiCA.pdf
 theme: jekyll-theme-minimal
+personal_info:
+  name: Your Name
+  resume: Assets/TemiCA.pdf
