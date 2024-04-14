@@ -10,12 +10,10 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 
 <b>Soft Skills:</b><code>Communication</code>&nbsp;|&nbsp;<code>Attention&nbsp;to&nbsp;Detail</code>&nbsp;|&nbsp;<code>Problem&nbsp;Solving</code>&nbsp;|&nbsp;<code>Presentation</code>
 
-
-
 ## Education
-1. **Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
-2. **Covenant University** - B.Eng Computer Engineering, 2010-2015
-3. **Google Analytics Certificate** 2023
+- **Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
+- **Covenant University** - B.Eng Computer Engineering, 2010-2015
+- **Google Analytics Certificate** 2023
 
 Ms. Artificial Intelligence and Data Science  | Solent Southampton University - United Kingdom (Dec 2022)
 
