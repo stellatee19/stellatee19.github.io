@@ -9,7 +9,7 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 - *Covenant University* - **B.Eng Computer Engineering**, 2010-2015
 - *Google Analytics Certificate* - 2023
   
-### Projects
+## Projects
 ### Finance Analysis Dahboard using PowerBi
 - Finance dataset extracted directly from PowerBi.
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
