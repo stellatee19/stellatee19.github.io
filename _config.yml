@@ -1,7 +1,6 @@
 title: Temi Adegoke
 logo: /Assets/IMG_4272.JPG
 description: # Data Analyst
-# >- Welcome to my personal portfolio. Here you will find projects I've worked on and my professional journey.
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
 index: About me
