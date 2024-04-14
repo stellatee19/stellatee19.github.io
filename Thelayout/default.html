@@ -11,14 +11,11 @@
 <link rel="stylesheet" href="/assets/styles.css">
 
 
-
-
-
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.stellatee19 }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.io.stellatee19 }}</a></h1>
         <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
         <!-- other elements -->
       </header>
@@ -35,7 +32,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.stellatee19_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
