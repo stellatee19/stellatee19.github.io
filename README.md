@@ -1,16 +1,16 @@
 ## Data Analyst Portfolio 
 ### About me
 I am a Passionate  data analyst with a proven track record of transforming complex datasets into actionable insights that drive business growth. Passionate about data visualization and predictive modeling, I leverage advanced analytical techniques to solve challenging problems. Let’s connect to explore opportunities and share industry insights.
-## Skills
+### Skills
 <code>Data Analaysis</code> |<code>PowerBI</code> | <code>MATLAB</code> | <code>Machine Learning</code> | <code>Python</code> | <code>SQL</code> | <code>Visualization</code> | <code>Presentation</code>
 
-## Education
+### Education
 - *Solent Southampton University** - M.sc. AI & Data Science ,2021-2022
 - *Covenant University** - B.Eng Computer Engineering, 2010-2015
 - *Google Analytics Certificate** 2023
 - 
-## Projects
-## Finance Analysis Dahboard using PowerBi
+### Projects
+### Finance Analysis Dahboard using PowerBi
 - Finance dataset extracted directly from PowerBi.
 - I created a data model to integrate the financial datasets, ensuring cohesive relationships between transactional details and sales metrics. By employing calculated columns and measures,I enabled a seamless flow of analysis from gross sales trends to profitability by time periods and geographies."
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
