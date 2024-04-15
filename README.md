@@ -31,7 +31,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
   ![view](Assets/prof visualization.png)   ![Assets/Trend for profit](Assets/Trend for profit)
   
   [Click Here for a better understanding of project](https://github.com/stellatee19/Stellaprojects/blob/10c8ff4927ca83cac2a6cee5592830357525931d/financial%20pbi.pbix)
-  ## 3.  Bike Sales Analysis in Microsoft Excel
+ ## 3.  Bike Sales Analysis in Microsoft Excel
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
 - Dashboard Development: I designed and implemented an interactive dashboard with slicers in Excel, providing insightful visualizations and enabling dynamic data exploration to drive business decisions in the bike sales industry.
 ![Screenshot 2024-04-02 at 19 12 20](https://github.com/stellatee19/stellatee19.github.io/assets/164964860/e99bbefb-7299-44aa-8878-417f042096f3)
