@@ -29,6 +29,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
 
   ![view](Assets/prof visualization.png)   ![Assets/Trend for profit](Assets/Trend for profit)
+  [Link To Project](financial pbi.pbix)
 
 ### Bike Sales
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
