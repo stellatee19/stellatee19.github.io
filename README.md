@@ -29,7 +29,7 @@ For a more comprehensive understanding of my project,kindly [click here](https:/
 - The model was meticulously optimized for query performance, facilitating instantaneous insights and supporting dynamic, user-driven interactivity across key financial performance indicators.
 
   ![view](Assets/prof visualization.png)   ![Assets/Trend for profit](Assets/Trend for profit)
- [Link to Full Project](https://github.com/stellatee19/Stellaprojects/blob/10c8ff4927ca83cac2a6cee5592830357525931d/financial%20pbi.pbix)
+  [Click Here for a better understanding of project](https://github.com/stellatee19/Stellaprojects/blob/10c8ff4927ca83cac2a6cee5592830357525931d/financial%20pbi.pbix)
 ### Bike Sales
 -  Data Cleaning and Transformation: Demonstrated expertise in data cleaning and transformation, successfully preprocessed a bike sales dataset to ensure data quality and integrity, enhancing the accuracy of subsequent analyses.
 - Dashboard Development: I designed and implemented an interactive dashboard with slicers in Excel, providing insightful visualizations and enabling dynamic data exploration to drive business decisions in the bike sales industry.
