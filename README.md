@@ -14,7 +14,7 @@ I am a Passionate  data analyst with a proven track record of transforming compl
 - *Google Analytics Certificate*, 2023
   
 ## Projects
-### 1. Strategic Data Insights: Diabetes Prediction Using Machine Learning.
+### 1. Strategic Data Insights: Diabetes Prediction Using Machine Learning
 - Data Acquisition: The diabetes dataset was sourced from **[Kaggle](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes/data)**
 - Advanced Modeling & Optimization: I demonstrated versatility by using machine learning algorithms such as Random Forest, Logistic Regression, and KNN, and optimized model performance using RandomizedSearchCV for hyperparameter tuning.
 - Robust Model Evaluation: I Conducted thorough model evaluation using metrics like accuracy, precision, recall, F1-score, and ROC-AUC, showcasing a strong grasp of model validation techniques and the ability to effectively interpret and communicate result.
